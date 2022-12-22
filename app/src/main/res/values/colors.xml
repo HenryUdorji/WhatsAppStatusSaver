@@ -6,4 +6,5 @@
     <color name="secondary">#F0F2F5</color>
     <color name="accent">#00A884</color>
     <color name="grey">#F0F2F5</color>
+    <color name="icon">#000000</color>
 </resources>

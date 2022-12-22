@@ -6,4 +6,5 @@
     <color name="grey">#F0F2F5</color>
     <color name="primary">#111B21</color>
     <color name="secondary">#202C33</color>
+    <color name="icon">#FFFFFFFF</color>
 </resources>
