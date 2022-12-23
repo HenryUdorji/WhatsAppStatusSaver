@@ -32,7 +32,7 @@
         tools:layout="@layout/fragment_settings" />
     <fragment
         android:id="@+id/statusSaverFragment"
-        android:name="com.hashconcepts.whatsappstatussaver.StatusSaverFragment"
+        android:name="com.hashconcepts.whatsappstatussaver.statussaver.StatusSaverFragment"
         android:label="fragment_status_saver"
         tools:layout="@layout/fragment_status_saver" />
 </navigation>
