@@ -4,4 +4,9 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="images">Images</string>
     <string name="videos">Videos</string>
+    <string name="storage_permission_message">Please provide Storage permission so that the app can access your WhatsApp status.</string>
+    <string name="grant_permission_manually">You need to allow necessary permissions in Settings manually</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="storage_permission_denied">Storage permission denied</string>
 </resources>
